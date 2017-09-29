@@ -22,7 +22,7 @@ Find Button: Finds a vehicle from the database using the VIN number
 
 # Welcome Display -
 ![Alt text](https://github.com/IInsomnia/CarFax-App-with-Java-Database_JDBC/blob/master/Welcome%20Display.PNG "Welcome Display")
-_
+
 # Record Added Display -
 ![Alt text](https://github.com/IInsomnia/CarFax-App-with-Java-Database_JDBC/blob/master/Record%20Added.PNG "Record Added")
 
